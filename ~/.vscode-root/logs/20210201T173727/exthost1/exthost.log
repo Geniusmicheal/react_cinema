@@ -1,0 +1,868 @@
+[2021-02-01 17:37:39.167] [exthost] [info] extension host started
+[2021-02-01 17:37:39.226] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-02-01 17:37:39.227] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-02-01 17:37:39.433] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-02-01 17:37:39.434] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-02-01 17:37:39.545] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2021-02-01 17:37:39.545] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-02-01 17:37:39.772] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-02-01 17:37:39.772] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2021-02-01 17:37:40.098] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2021-02-01 17:37:40.098] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-02-01 17:37:40.333] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2021-02-01 17:37:40.334] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2021-02-01 17:37:40.490] [exthost] [info] ExtensionService#_doActivateExtension 2gua.rainbow-brackets {"startup":true,"extensionId":{"value":"2gua.rainbow-brackets","_lower":"2gua.rainbow-brackets"},"activationEvent":"*"}
+[2021-02-01 17:37:40.490] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/2gua.rainbow-brackets-0.0.6/out/src/extension
+[2021-02-01 17:37:40.562] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2 {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer-2","_lower":"coenraads.bracket-pair-colorizer-2"},"activationEvent":"*"}
+[2021-02-01 17:37:40.562] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.0/out/src/extension
+[2021-02-01 17:37:41.015] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-close-tag","_lower":"formulahendry.auto-close-tag"},"activationEvent":"*"}
+[2021-02-01 17:37:41.015] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/formulahendry.auto-close-tag-0.5.9/out/src/extension
+[2021-02-01 17:37:41.065] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"extensionId":{"value":"HookyQR.beautify","_lower":"hookyqr.beautify"},"activationEvent":"*"}
+[2021-02-01 17:37:41.065] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/hookyqr.beautify-1.5.0/extension
+[2021-02-01 17:37:42.318] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-02-01 17:37:42.318] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/pkief.material-icon-theme-4.4.0/dist/extension
+[2021-02-01 17:37:42.369] [exthost] [info] ExtensionService#_doActivateExtension sporiley.css-auto-prefix {"startup":true,"extensionId":{"value":"sporiley.css-auto-prefix","_lower":"sporiley.css-auto-prefix"},"activationEvent":"*"}
+[2021-02-01 17:37:42.369] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/sporiley.css-auto-prefix-0.1.7/extension
+[2021-02-01 17:37:42.384] [exthost] [info] ExtensionService#_doActivateExtension vincaslt.highlight-matching-tag {"startup":true,"extensionId":{"value":"vincaslt.highlight-matching-tag","_lower":"vincaslt.highlight-matching-tag"},"activationEvent":"*"}
+[2021-02-01 17:37:42.384] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/vincaslt.highlight-matching-tag-0.10.0/out/src/extension
+[2021-02-01 17:37:42.465] [exthost] [info] ExtensionService#_doActivateExtension voldemortensen.rainbow-tags {"startup":true,"extensionId":{"value":"voldemortensen.rainbow-tags","_lower":"voldemortensen.rainbow-tags"},"activationEvent":"*"}
+[2021-02-01 17:37:42.465] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/voldemortensen.rainbow-tags-0.3.2/extension.js
+[2021-02-01 17:37:42.495] [exthost] [info] ExtensionService#_doActivateExtension wangtao0101.vscode-js-import {"startup":true,"extensionId":{"value":"wangtao0101.vscode-js-import","_lower":"wangtao0101.vscode-js-import"},"activationEvent":"*"}
+[2021-02-01 17:37:42.495] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/wangtao0101.vscode-js-import-0.15.5/out/src/extension
+[2021-02-01 17:37:43.120] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-02-01 17:37:43.120] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-02-01 17:37:43.304] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-02-01 17:37:43.304] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-02-01 17:37:44.192] [exthost] [info] eager extensions activated
+[2021-02-01 17:37:44.292] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-02-01 17:37:44.292] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-02-01 17:38:16.279] [exthost] [info] extension host started
+[2021-02-01 17:38:16.355] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-02-01 17:38:16.355] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-02-01 17:38:16.369] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-02-01 17:38:16.369] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-02-01 17:38:16.372] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2021-02-01 17:38:16.372] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-02-01 17:38:16.392] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-02-01 17:38:16.392] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2021-02-01 17:38:16.413] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2021-02-01 17:38:16.414] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-02-01 17:38:16.416] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2021-02-01 17:38:16.416] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2021-02-01 17:38:16.418] [exthost] [info] ExtensionService#_doActivateExtension 2gua.rainbow-brackets {"startup":true,"extensionId":{"value":"2gua.rainbow-brackets","_lower":"2gua.rainbow-brackets"},"activationEvent":"*"}
+[2021-02-01 17:38:16.418] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/2gua.rainbow-brackets-0.0.6/out/src/extension
+[2021-02-01 17:38:16.419] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2 {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer-2","_lower":"coenraads.bracket-pair-colorizer-2"},"activationEvent":"*"}
+[2021-02-01 17:38:16.420] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.0/out/src/extension
+[2021-02-01 17:38:16.438] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-close-tag","_lower":"formulahendry.auto-close-tag"},"activationEvent":"*"}
+[2021-02-01 17:38:16.438] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/formulahendry.auto-close-tag-0.5.10/out/src/extension
+[2021-02-01 17:38:16.440] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"extensionId":{"value":"HookyQR.beautify","_lower":"hookyqr.beautify"},"activationEvent":"*"}
+[2021-02-01 17:38:16.440] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/hookyqr.beautify-1.5.0/extension
+[2021-02-01 17:38:16.489] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-02-01 17:38:16.489] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/pkief.material-icon-theme-4.5.0/dist/extension
+[2021-02-01 17:38:16.593] [exthost] [info] ExtensionService#_doActivateExtension sporiley.css-auto-prefix {"startup":true,"extensionId":{"value":"sporiley.css-auto-prefix","_lower":"sporiley.css-auto-prefix"},"activationEvent":"*"}
+[2021-02-01 17:38:16.593] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/sporiley.css-auto-prefix-0.1.7/extension
+[2021-02-01 17:38:16.595] [exthost] [info] ExtensionService#_doActivateExtension vincaslt.highlight-matching-tag {"startup":true,"extensionId":{"value":"vincaslt.highlight-matching-tag","_lower":"vincaslt.highlight-matching-tag"},"activationEvent":"*"}
+[2021-02-01 17:38:16.595] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/vincaslt.highlight-matching-tag-0.10.0/out/src/extension
+[2021-02-01 17:38:16.616] [exthost] [info] ExtensionService#_doActivateExtension voldemortensen.rainbow-tags {"startup":true,"extensionId":{"value":"voldemortensen.rainbow-tags","_lower":"voldemortensen.rainbow-tags"},"activationEvent":"*"}
+[2021-02-01 17:38:16.616] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/voldemortensen.rainbow-tags-0.3.2/extension.js
+[2021-02-01 17:38:16.618] [exthost] [info] ExtensionService#_doActivateExtension wangtao0101.vscode-js-import {"startup":true,"extensionId":{"value":"wangtao0101.vscode-js-import","_lower":"wangtao0101.vscode-js-import"},"activationEvent":"*"}
+[2021-02-01 17:38:16.618] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/wangtao0101.vscode-js-import-0.15.5/out/src/extension
+[2021-02-01 17:38:16.684] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2021-02-01 17:38:16.684] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/npm/dist/npmMain
+[2021-02-01 17:38:17.772] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-02-01 17:38:17.772] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-02-01 17:38:17.886] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-02-01 17:38:17.886] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-02-01 17:38:18.031] [exthost] [info] eager extensions activated
+[2021-02-01 17:38:18.281] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 296
+[2021-02-01 17:38:18.305] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-02-01 17:38:18.305] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-02-01 17:38:34.458] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 357
+[2021-02-01 17:43:42.719] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 358
+[2021-02-01 17:43:53.277] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 359
+[2021-02-01 17:43:55.014] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2021-02-01 17:43:55.015] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-02-01 17:43:59.442] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 360
+[2021-02-01 17:44:05.768] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 362
+[2021-02-01 17:44:57.221] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2021-02-01 17:44:57.221] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-02-01 17:44:57.311] [exthost] [info] ExtensionService#_doActivateExtension steoates.autoimport {"startup":false,"extensionId":{"value":"steoates.autoimport","_lower":"steoates.autoimport"},"activationEvent":"onLanguage:typescript"}
+[2021-02-01 17:44:57.311] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/steoates.autoimport-1.5.3/out/src/extension
+[2021-02-02 10:48:55.576] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2021-02-02 10:48:55.579] [exthost] [error] Error: <semantic> TypeScript Server Error (4.1.2)
+Debug Failure. False expression.
+Error: Debug Failure. False expression.
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:128621:34
+    at Object.forEach (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:188:30)
+    at getSymbolKindOfConstructorPropertyMethodAccessorFunctionOrVar (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:128615:48)
+    at Object.getSymbolKind (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:128545:26)
+    at createCompletionEntry (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:118152:40)
+    at getCompletionEntriesFromSymbols (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:118199:29)
+    at completionInfoFromData (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:118023:35)
+    at Object.getCompletionsAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117981:28)
+    at Proxy.getCompletionsAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146718:35)
+    at IOSession.Session.getCompletions (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:157642:64)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:156526:61)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158276:88
+    at IOSession.Session.executeWithRequestId (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158267:28)
+    at IOSession.Session.executeCommand (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158276:33)
+    at IOSession.Session.onMessage (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158300:35)
+    at Interface.<anonymous> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160510:27)
+    at Interface.emit (events.js:223:5)
+    at Interface._onLine (readline.js:315:10)
+    at Interface._normalWrite (readline.js:460:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:223:5)
+    at addChunk (_stream_readable.js:309:12)
+    at readableAddChunk (_stream_readable.js:290:11)
+    at Socket.Readable.push (_stream_readable.js:224:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+	at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:76778)
+	at dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:70653)
+	at dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:69512)
+	at /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:69022
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:801)
+	at g.onLengthData (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:45:60018)
+	at Socket.<anonymous> (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:45:59666)
+	at Socket.emit (events.js:223:5)
+	at addChunk (_stream_readable.js:309:12)
+	at readableAddChunk (_stream_readable.js:290:11)
+	at Socket.Readable.push (_stream_readable.js:224:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+[2021-02-02 10:51:00.081] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2021-02-02 10:51:00.081] [exthost] [error] Error: <semantic> TypeScript Server Error (4.1.2)
+Debug Failure. False expression: `JsxText` tokens should not be the first child of `JsxElement | JsxSelfClosingElement`
+Error: Debug Failure. False expression: `JsxText` tokens should not be the first child of `JsxElement | JsxSelfClosingElement`
+    at findRightmostChildNodeWithTokens (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114350:26)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114324:29)
+    at findPrecedingToken (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114274:22)
+    at getTokenAtPositionWorker (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114224:41)
+    at getTouchingToken (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114198:16)
+    at Object.getTouchingPropertyName (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114190:16)
+    at Proxy.getQuickInfoAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146734:27)
+    at IOSession.Session.getQuickInfoWorker (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:157539:62)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:156478:61)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158276:88
+    at IOSession.Session.executeWithRequestId (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158267:28)
+    at IOSession.Session.executeCommand (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158276:33)
+    at IOSession.Session.onMessage (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158300:35)
+    at Interface.<anonymous> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160510:27)
+    at Interface.emit (events.js:223:5)
+    at Interface._onLine (readline.js:315:10)
+    at Interface._normalWrite (readline.js:460:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:223:5)
+    at addChunk (_stream_readable.js:309:12)
+    at readableAddChunk (_stream_readable.js:290:11)
+    at Socket.Readable.push (_stream_readable.js:224:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+	at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:76778)
+	at dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:70653)
+	at dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:69512)
+	at /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:69022
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:801)
+	at g.onLengthData (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:45:60018)
+	at Socket.<anonymous> (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:45:59666)
+	at Socket.emit (events.js:223:5)
+	at addChunk (_stream_readable.js:309:12)
+	at readableAddChunk (_stream_readable.js:290:11)
+	at Socket.Readable.push (_stream_readable.js:224:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+[2021-02-02 10:51:22.471] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 378
+[2021-02-02 11:05:11.218] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 377
+[2021-02-02 11:06:15.773] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 376
+[2021-02-02 11:16:12.261] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 376
+[2021-02-02 11:17:12.111] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 376
+[2021-02-02 11:18:35.387] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 376
+[2021-02-02 11:19:57.941] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 376
+[2021-02-02 11:23:45.560] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 376
+[2021-02-02 11:24:01.960] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 376
+[2021-02-02 11:25:43.660] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 376
+[2021-02-02 11:25:59.072] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 376
+[2021-02-02 11:28:57.768] [exthost] [error] TypeError: Cannot read property 'scheme' of null
+	at c.reset (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:163:200)
+	at u.findSubstr (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:166:236)
+	at R.getWorkspaceFolder (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:910:577)
+	at A.getWorkspaceFolder (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:913:139)
+	at Object.getWorkspaceFolder (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1030:274)
+	at Function.getWorkspaceFolder (/root/.vscode/extensions/wangtao0101.vscode-js-import-0.15.5/out/src/jsImport.js:104:50)
+	at /root/.vscode/extensions/wangtao0101.vscode-js-import-0.15.5/out/src/jsImport.js:43:40
+	at _executeContributedCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:701:220)
+	at _doExecuteCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:700:378)
+	at _.executeCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:700:284)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1021:325)
+	at /root/.vscode/extensions/wangtao0101.vscode-js-import-0.15.5/out/src/rootCache.js:54:18
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:801)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:746:686
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:801)
+	at t.ExtHostFileSystemEventService.$onFileEvent (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:747:948)
+	at m._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:892:926)
+	at m._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:892:618)
+	at m._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:891:252)
+	at m._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:890:6)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:888:136
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:801)
+	at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:233:787)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1094:104
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:801)
+	at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:233:787)
+	at t.PersistentProtocol._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:238:1004)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:927
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:801)
+	at p.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:231:195)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:230:547
+	at Socket.t (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:240:822)
+	at Socket.emit (events.js:223:5)
+	at addChunk (_stream_readable.js:309:12)
+	at readableAddChunk (_stream_readable.js:290:11)
+	at Socket.Readable.push (_stream_readable.js:224:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:181:23) extension.scanImport
+[2021-02-02 11:29:40.288] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 379
+[2021-02-02 11:29:45.408] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 379
+[2021-02-02 11:36:39.310] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2021-02-02 11:36:39.310] [exthost] [error] Error: <semantic> TypeScript Server Error (4.1.2)
+Debug Failure.
+Error: Debug Failure.
+    at getExportEqualsLocalSymbol (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:121292:33)
+    at getImport (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:121263:38)
+    at Object.getImportOrExportSymbol (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:121176:68)
+    at getImportOrExportReferences (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122701:56)
+    at getReferencesAtLocation (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122631:17)
+    at getReferencesInContainer (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122575:21)
+    at getReferencesInContainerOrFiles (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122129:21)
+    at getReferencedSymbolsForSymbol (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122120:21)
+    at Object.getReferencedSymbolsForNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:121917:34)
+    at Object.getReferenceEntriesForNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:121620:40)
+    at getSemanticDocumentHighlights (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:120247:57)
+    at Object.getDocumentHighlights (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:120235:20)
+    at Proxy.getDocumentHighlights (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146815:42)
+    at IOSession.Session.getDocumentHighlights (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:157303:71)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:156633:61)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158276:88
+    at IOSession.Session.executeWithRequestId (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158267:28)
+    at IOSession.Session.executeCommand (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158276:33)
+    at IOSession.Session.onMessage (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158300:35)
+    at Interface.<anonymous> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160510:27)
+    at Interface.emit (events.js:223:5)
+    at Interface._onLine (readline.js:315:10)
+    at Interface._normalWrite (readline.js:460:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:223:5)
+    at addChunk (_stream_readable.js:309:12)
+    at readableAddChunk (_stream_readable.js:290:11)
+    at Socket.Readable.push (_stream_readable.js:224:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+	at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:76778)
+	at dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:70653)
+	at dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:69512)
+	at /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:69022
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:801)
+	at g.onLengthData (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:45:60018)
+	at Socket.<anonymous> (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:45:59666)
+	at Socket.emit (events.js:223:5)
+	at addChunk (_stream_readable.js:309:12)
+	at readableAddChunk (_stream_readable.js:290:11)
+	at Socket.Readable.push (_stream_readable.js:224:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+[2021-02-02 11:37:44.022] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 379
+[2021-02-02 11:39:08.521] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2021-02-02 11:39:08.522] [exthost] [error] Error: <semantic> TypeScript Server Error (4.1.2)
+Debug Failure.
+Error: Debug Failure.
+    at getExportEqualsLocalSymbol (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:121292:33)
+    at getImport (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:121263:38)
+    at Object.getImportOrExportSymbol (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:121176:68)
+    at getImportOrExportReferences (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122701:56)
+    at getReferencesAtLocation (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122631:17)
+    at getReferencesInContainer (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122575:21)
+    at getReferencesInContainerOrFiles (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122129:21)
+    at getReferencedSymbolsForSymbol (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122120:21)
+    at Object.getReferencedSymbolsForNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:121917:34)
+    at Object.getReferenceEntriesForNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:121620:40)
+    at getSemanticDocumentHighlights (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:120247:57)
+    at Object.getDocumentHighlights (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:120235:20)
+    at Proxy.getDocumentHighlights (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146815:42)
+    at IOSession.Session.getDocumentHighlights (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:157303:71)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:156633:61)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158276:88
+    at IOSession.Session.executeWithRequestId (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158267:28)
+    at IOSession.Session.executeCommand (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158276:33)
+    at IOSession.Session.onMessage (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158300:35)
+    at Interface.<anonymous> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160510:27)
+    at Interface.emit (events.js:223:5)
+    at Interface._onLine (readline.js:315:10)
+    at Interface._normalWrite (readline.js:460:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:223:5)
+    at addChunk (_stream_readable.js:309:12)
+    at readableAddChunk (_stream_readable.js:290:11)
+    at Socket.Readable.push (_stream_readable.js:224:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+	at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:76778)
+	at dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:70653)
+	at dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:69512)
+	at /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:69022
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:801)
+	at g.onLengthData (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:45:60018)
+	at Socket.<anonymous> (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:45:59666)
+	at Socket.emit (events.js:223:5)
+	at addChunk (_stream_readable.js:309:12)
+	at readableAddChunk (_stream_readable.js:290:11)
+	at Socket.Readable.push (_stream_readable.js:224:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+[2021-02-02 11:40:04.583] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2021-02-02 11:40:04.584] [exthost] [error] Error: <semantic> TypeScript Server Error (4.1.2)
+Debug Failure.
+Error: Debug Failure.
+    at getExportEqualsLocalSymbol (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:121292:33)
+    at getImport (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:121263:38)
+    at Object.getImportOrExportSymbol (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:121176:68)
+    at getImportOrExportReferences (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122701:56)
+    at getReferencesAtLocation (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122631:17)
+    at getReferencesInContainer (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122575:21)
+    at getReferencesInContainerOrFiles (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122129:21)
+    at getReferencedSymbolsForSymbol (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122120:21)
+    at Object.getReferencedSymbolsForNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:121917:34)
+    at Object.getReferenceEntriesForNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:121620:40)
+    at getSemanticDocumentHighlights (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:120247:57)
+    at Object.getDocumentHighlights (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:120235:20)
+    at Proxy.getDocumentHighlights (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146815:42)
+    at IOSession.Session.getDocumentHighlights (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:157303:71)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:156633:61)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158276:88
+    at IOSession.Session.executeWithRequestId (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158267:28)
+    at IOSession.Session.executeCommand (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158276:33)
+    at IOSession.Session.onMessage (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158300:35)
+    at Interface.<anonymous> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160510:27)
+    at Interface.emit (events.js:223:5)
+    at Interface._onLine (readline.js:315:10)
+    at Interface._normalWrite (readline.js:460:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:223:5)
+    at addChunk (_stream_readable.js:309:12)
+    at readableAddChunk (_stream_readable.js:290:11)
+    at Socket.Readable.push (_stream_readable.js:224:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+	at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:76778)
+	at dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:70653)
+	at dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:69512)
+	at /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:69022
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:801)
+	at g.onLengthData (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:45:60018)
+	at Socket.<anonymous> (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:45:59666)
+	at Socket.emit (events.js:223:5)
+	at addChunk (_stream_readable.js:309:12)
+	at readableAddChunk (_stream_readable.js:290:11)
+	at Socket.Readable.push (_stream_readable.js:224:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+[2021-02-02 11:40:16.631] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 379
+[2021-02-02 11:41:48.870] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 379
+[2021-02-02 11:43:07.645] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 379
+[2021-02-02 11:43:16.430] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2021-02-02 11:43:16.431] [exthost] [error] Error: <semantic> TypeScript Server Error (4.1.2)
+Debug Failure. False expression.
+Error: Debug Failure. False expression.
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:128621:34
+    at Object.forEach (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:188:30)
+    at getSymbolKindOfConstructorPropertyMethodAccessorFunctionOrVar (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:128615:48)
+    at Object.getSymbolKind (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:128545:26)
+    at createCompletionEntry (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:118152:40)
+    at getCompletionEntriesFromSymbols (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:118199:29)
+    at completionInfoFromData (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:118023:35)
+    at Object.getCompletionsAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117981:28)
+    at Proxy.getCompletionsAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146718:35)
+    at IOSession.Session.getCompletions (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:157642:64)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:156526:61)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158276:88
+    at IOSession.Session.executeWithRequestId (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158267:28)
+    at IOSession.Session.executeCommand (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158276:33)
+    at IOSession.Session.onMessage (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158300:35)
+    at Interface.<anonymous> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160510:27)
+    at Interface.emit (events.js:223:5)
+    at Interface._onLine (readline.js:315:10)
+    at Interface._normalWrite (readline.js:460:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:223:5)
+    at addChunk (_stream_readable.js:309:12)
+    at readableAddChunk (_stream_readable.js:290:11)
+    at Socket.Readable.push (_stream_readable.js:224:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+	at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:76778)
+	at dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:70653)
+	at dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:69512)
+	at /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:69022
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:801)
+	at g.onLengthData (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:45:60018)
+	at Socket.<anonymous> (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:45:59666)
+	at Socket.emit (events.js:223:5)
+	at addChunk (_stream_readable.js:309:12)
+	at readableAddChunk (_stream_readable.js:290:11)
+	at Socket.Readable.push (_stream_readable.js:224:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+[2021-02-02 11:43:19.650] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 379
+[2021-02-02 11:47:49.897] [exthost] [error] TypeError: Cannot read property 'scheme' of null
+	at c.reset (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:163:200)
+	at u.findSubstr (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:166:236)
+	at R.getWorkspaceFolder (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:910:577)
+	at A.getWorkspaceFolder (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:913:139)
+	at Object.getWorkspaceFolder (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1030:274)
+	at Function.getWorkspaceFolder (/root/.vscode/extensions/wangtao0101.vscode-js-import-0.15.5/out/src/jsImport.js:104:50)
+	at /root/.vscode/extensions/wangtao0101.vscode-js-import-0.15.5/out/src/jsImport.js:43:40
+	at _executeContributedCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:701:220)
+	at _doExecuteCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:700:378)
+	at _.executeCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:700:284)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1021:325)
+	at /root/.vscode/extensions/wangtao0101.vscode-js-import-0.15.5/out/src/rootCache.js:54:18
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:801)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:746:686
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:801)
+	at t.ExtHostFileSystemEventService.$onFileEvent (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:747:948)
+	at m._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:892:926)
+	at m._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:892:618)
+	at m._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:891:252)
+	at m._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:890:6)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:888:136
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:801)
+	at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:233:787)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1094:104
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:801)
+	at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:233:787)
+	at t.PersistentProtocol._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:238:1004)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:927
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:801)
+	at p.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:231:195)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:230:547
+	at Socket.t (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:240:822)
+	at Socket.emit (events.js:223:5)
+	at addChunk (_stream_readable.js:309:12)
+	at readableAddChunk (_stream_readable.js:290:11)
+	at Socket.Readable.push (_stream_readable.js:224:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:181:23) extension.scanImport
+[2021-02-02 11:47:52.064] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 380
+[2021-02-02 11:48:45.839] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 380
+[2021-02-02 11:50:27.250] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 379
+[2021-02-02 11:52:27.677] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 379
+[2021-02-02 11:55:17.444] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 379
+[2021-02-02 11:56:14.055] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 379
+[2021-02-02 11:57:11.975] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 379
+[2021-02-02 11:58:02.772] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2021-02-02 11:58:02.773] [exthost] [error] Error: <semantic> TypeScript Server Error (4.1.2)
+Debug Failure. False expression.
+Error: Debug Failure. False expression.
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:128621:34
+    at Object.forEach (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:188:30)
+    at getSymbolKindOfConstructorPropertyMethodAccessorFunctionOrVar (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:128615:48)
+    at Object.getSymbolKind (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:128545:26)
+    at createCompletionEntry (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:118152:40)
+    at getCompletionEntriesFromSymbols (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:118199:29)
+    at completionInfoFromData (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:118023:35)
+    at Object.getCompletionsAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117981:28)
+    at Proxy.getCompletionsAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146718:35)
+    at IOSession.Session.getCompletions (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:157642:64)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:156526:61)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158276:88
+    at IOSession.Session.executeWithRequestId (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158267:28)
+    at IOSession.Session.executeCommand (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158276:33)
+    at IOSession.Session.onMessage (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158300:35)
+    at Interface.<anonymous> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160510:27)
+    at Interface.emit (events.js:223:5)
+    at Interface._onLine (readline.js:315:10)
+    at Interface._normalWrite (readline.js:460:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:223:5)
+    at addChunk (_stream_readable.js:309:12)
+    at readableAddChunk (_stream_readable.js:290:11)
+    at Socket.Readable.push (_stream_readable.js:224:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+	at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:76778)
+	at dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:70653)
+	at dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:69512)
+	at /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:69022
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:801)
+	at g.onLengthData (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:45:60018)
+	at Socket.<anonymous> (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:45:59666)
+	at Socket.emit (events.js:223:5)
+	at addChunk (_stream_readable.js:309:12)
+	at readableAddChunk (_stream_readable.js:290:11)
+	at Socket.Readable.push (_stream_readable.js:224:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+[2021-02-02 11:58:21.826] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 379
+[2021-02-02 12:01:29.620] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 379
+[2021-02-02 12:04:55.030] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 379
+[2021-02-02 12:05:00.242] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 379
+[2021-02-02 12:10:30.916] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 379
+[2021-02-02 12:48:02.722] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 379
+[2021-02-02 12:48:08.035] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 379
+[2021-02-02 12:48:25.103] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 379
+[2021-02-02 13:04:25.727] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 379
+[2021-02-02 13:08:07.138] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 379
+[2021-02-02 13:09:05.074] [exthost] [error] TypeError: Cannot read property 'scheme' of null
+	at c.reset (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:163:200)
+	at u.findSubstr (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:166:236)
+	at R.getWorkspaceFolder (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:910:577)
+	at A.getWorkspaceFolder (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:913:139)
+	at Object.getWorkspaceFolder (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1030:274)
+	at Function.getWorkspaceFolder (/root/.vscode/extensions/wangtao0101.vscode-js-import-0.15.5/out/src/jsImport.js:104:50)
+	at /root/.vscode/extensions/wangtao0101.vscode-js-import-0.15.5/out/src/jsImport.js:43:40
+	at _executeContributedCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:701:220)
+	at _doExecuteCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:700:378)
+	at _.executeCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:700:284)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1021:325)
+	at /root/.vscode/extensions/wangtao0101.vscode-js-import-0.15.5/out/src/rootCache.js:54:18
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:801)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:746:686
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:801)
+	at t.ExtHostFileSystemEventService.$onFileEvent (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:747:948)
+	at m._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:892:926)
+	at m._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:892:618)
+	at m._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:891:252)
+	at m._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:890:6)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:888:136
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:801)
+	at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:233:787)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1094:104
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:801)
+	at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:233:787)
+	at t.PersistentProtocol._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:238:1004)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:927
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:801)
+	at p.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:231:195)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:230:547
+	at Socket.t (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:240:822)
+	at Socket.emit (events.js:223:5)
+	at addChunk (_stream_readable.js:309:12)
+	at readableAddChunk (_stream_readable.js:290:11)
+	at Socket.Readable.push (_stream_readable.js:224:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:181:23) extension.scanImport
+[2021-02-02 13:09:07.423] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 380
+[2021-02-02 13:10:06.852] [exthost] [error] TypeError: Cannot read property 'scheme' of null
+	at c.reset (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:163:200)
+	at u.findSubstr (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:166:236)
+	at R.getWorkspaceFolder (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:910:577)
+	at A.getWorkspaceFolder (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:913:139)
+	at Object.getWorkspaceFolder (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1030:274)
+	at Function.getWorkspaceFolder (/root/.vscode/extensions/wangtao0101.vscode-js-import-0.15.5/out/src/jsImport.js:104:50)
+	at /root/.vscode/extensions/wangtao0101.vscode-js-import-0.15.5/out/src/jsImport.js:43:40
+	at _executeContributedCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:701:220)
+	at _doExecuteCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:700:378)
+	at _.executeCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:700:284)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1021:325)
+	at /root/.vscode/extensions/wangtao0101.vscode-js-import-0.15.5/out/src/rootCache.js:54:18
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:801)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:746:686
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:801)
+	at t.ExtHostFileSystemEventService.$onFileEvent (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:747:948)
+	at m._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:892:926)
+	at m._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:892:618)
+	at m._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:891:252)
+	at m._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:890:6)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:888:136
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:801)
+	at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:233:787)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1094:104
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:801)
+	at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:233:787)
+	at t.PersistentProtocol._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:238:1004)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:927
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:801)
+	at p.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:231:195)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:230:547
+	at Socket.t (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:240:822)
+	at Socket.emit (events.js:223:5)
+	at addChunk (_stream_readable.js:309:12)
+	at readableAddChunk (_stream_readable.js:290:11)
+	at Socket.Readable.push (_stream_readable.js:224:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:181:23) extension.scanImport
+[2021-02-02 13:10:08.953] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 380
+[2021-02-02 13:13:22.526] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2021-02-02 13:13:22.541] [exthost] [error] Error: <semantic> TypeScript Server Error (4.1.2)
+Debug Failure. False expression.
+Error: Debug Failure. False expression.
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:128621:34
+    at Object.forEach (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:188:30)
+    at getSymbolKindOfConstructorPropertyMethodAccessorFunctionOrVar (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:128615:48)
+    at Object.getSymbolKind (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:128545:26)
+    at createCompletionEntry (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:118152:40)
+    at getCompletionEntriesFromSymbols (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:118199:29)
+    at completionInfoFromData (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:118023:35)
+    at Object.getCompletionsAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117981:28)
+    at Proxy.getCompletionsAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146718:35)
+    at IOSession.Session.getCompletions (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:157642:64)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:156526:61)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158276:88
+    at IOSession.Session.executeWithRequestId (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158267:28)
+    at IOSession.Session.executeCommand (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158276:33)
+    at IOSession.Session.onMessage (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158300:35)
+    at Interface.<anonymous> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160510:27)
+    at Interface.emit (events.js:223:5)
+    at Interface._onLine (readline.js:315:10)
+    at Interface._normalWrite (readline.js:460:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:223:5)
+    at addChunk (_stream_readable.js:309:12)
+    at readableAddChunk (_stream_readable.js:290:11)
+    at Socket.Readable.push (_stream_readable.js:224:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+	at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:76778)
+	at dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:70653)
+	at dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:69512)
+	at /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:69022
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:801)
+	at g.onLengthData (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:45:60018)
+	at Socket.<anonymous> (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:45:59666)
+	at Socket.emit (events.js:223:5)
+	at addChunk (_stream_readable.js:309:12)
+	at readableAddChunk (_stream_readable.js:290:11)
+	at Socket.Readable.push (_stream_readable.js:224:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+[2021-02-02 13:17:43.274] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2021-02-02 13:17:43.274] [exthost] [error] Error: <semantic> TypeScript Server Error (4.1.2)
+Debug Failure. Did not expect JsxSelfClosingElement to have an Identifier in its trivia
+Error: Debug Failure. Did not expect JsxSelfClosingElement to have an Identifier in its trivia
+    at addSyntheticNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145615:30)
+    at createChildren (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145604:9)
+    at NodeObject.getChildren (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145548:56)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114281:30)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114315:32)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114315:32)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114315:32)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114315:32)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114315:32)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114315:32)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114315:32)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114315:32)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114315:32)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114315:32)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114315:32)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114315:32)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114315:32)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114315:32)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114315:32)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114315:32)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114315:32)
+    at Object.findPrecedingToken (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114274:22)
+    at Object.getCompletionsAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117963:35)
+    at Proxy.getCompletionsAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146718:35)
+    at IOSession.Session.getCompletions (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:157642:64)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:156526:61)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158276:88
+    at IOSession.Session.executeWithRequestId (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158267:28)
+    at IOSession.Session.executeCommand (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158276:33)
+    at IOSession.Session.onMessage (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158300:35)
+    at Interface.<anonymous> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160510:27)
+    at Interface.emit (events.js:223:5)
+    at Interface._onLine (readline.js:315:10)
+    at Interface._normalWrite (readline.js:460:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:223:5)
+    at addChunk (_stream_readable.js:309:12)
+    at readableAddChunk (_stream_readable.js:290:11)
+    at Socket.Readable.push (_stream_readable.js:224:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+	at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:76778)
+	at dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:70653)
+	at dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:69512)
+	at /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:69022
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:801)
+	at g.onLengthData (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:45:60018)
+	at Socket.<anonymous> (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:45:59666)
+	at Socket.emit (events.js:223:5)
+	at addChunk (_stream_readable.js:309:12)
+	at readableAddChunk (_stream_readable.js:290:11)
+	at Socket.Readable.push (_stream_readable.js:224:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+[2021-02-02 13:17:43.467] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2021-02-02 13:17:43.467] [exthost] [error] Error: <semantic> TypeScript Server Error (4.1.2)
+Debug Failure. Did not expect JsxSelfClosingElement to have an Identifier in its trivia
+Error: Debug Failure. Did not expect JsxSelfClosingElement to have an Identifier in its trivia
+    at addSyntheticNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145615:30)
+    at createChildren (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145604:9)
+    at NodeObject.getChildren (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145548:56)
+    at getTokenAtPositionWorker (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114211:43)
+    at Object.getTokenAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114203:16)
+    at getInfo (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:141166:28)
+    at Object.getAvailableActions (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:141140:28)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:133580:128
+    at getIterator (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:567:23)
+    at Object.flatMapIterator (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:550:27)
+    at Object.getApplicableRefactors (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:133579:36)
+    at Proxy.getApplicableRefactors (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147478:32)
+    at IOSession.Session.getApplicableRefactors (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:157926:53)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:156671:61)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158276:88
+    at IOSession.Session.executeWithRequestId (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158267:28)
+    at IOSession.Session.executeCommand (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158276:33)
+    at IOSession.Session.onMessage (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158300:35)
+    at Interface.<anonymous> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160510:27)
+    at Interface.emit (events.js:223:5)
+    at Interface._onLine (readline.js:315:10)
+    at Interface._normalWrite (readline.js:460:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:223:5)
+    at addChunk (_stream_readable.js:309:12)
+    at readableAddChunk (_stream_readable.js:290:11)
+    at Socket.Readable.push (_stream_readable.js:224:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+	at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:76778)
+	at dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:70653)
+	at dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:69512)
+	at /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:69022
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:801)
+	at g.onLengthData (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:45:60018)
+	at Socket.<anonymous> (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:45:59666)
+	at Socket.emit (events.js:223:5)
+	at addChunk (_stream_readable.js:309:12)
+	at readableAddChunk (_stream_readable.js:290:11)
+	at Socket.Readable.push (_stream_readable.js:224:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+[2021-02-02 13:17:43.842] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2021-02-02 13:17:43.842] [exthost] [error] Error: <semantic> TypeScript Server Error (4.1.2)
+Debug Failure. Did not expect JsxSelfClosingElement to have an Identifier in its trivia
+Error: Debug Failure. Did not expect JsxSelfClosingElement to have an Identifier in its trivia
+    at addSyntheticNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145615:30)
+    at createChildren (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145604:9)
+    at NodeObject.getChildren (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145548:56)
+    at getTokenAtPositionWorker (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114211:43)
+    at Object.getTokenAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114203:16)
+    at getInfo (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:141166:28)
+    at Object.getAvailableActions (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:141140:28)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:133580:128
+    at getIterator (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:567:23)
+    at Object.flatMapIterator (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:550:27)
+    at Object.getApplicableRefactors (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:133579:36)
+    at Proxy.getApplicableRefactors (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147478:32)
+    at IOSession.Session.getApplicableRefactors (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:157926:53)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:156671:61)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158276:88
+    at IOSession.Session.executeWithRequestId (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158267:28)
+    at IOSession.Session.executeCommand (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158276:33)
+    at IOSession.Session.onMessage (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158300:35)
+    at Interface.<anonymous> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160510:27)
+    at Interface.emit (events.js:223:5)
+    at Interface._onLine (readline.js:315:10)
+    at Interface._normalWrite (readline.js:460:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:223:5)
+    at addChunk (_stream_readable.js:309:12)
+    at readableAddChunk (_stream_readable.js:290:11)
+    at Socket.Readable.push (_stream_readable.js:224:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+	at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:76778)
+	at dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:70653)
+	at dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:69512)
+	at /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:69022
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:801)
+	at g.onLengthData (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:45:60018)
+	at Socket.<anonymous> (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:45:59666)
+	at Socket.emit (events.js:223:5)
+	at addChunk (_stream_readable.js:309:12)
+	at readableAddChunk (_stream_readable.js:290:11)
+	at Socket.Readable.push (_stream_readable.js:224:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+[2021-02-02 13:17:44.150] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2021-02-02 13:17:44.150] [exthost] [error] Error: <semantic> TypeScript Server Error (4.1.2)
+Debug Failure. Did not expect JsxSelfClosingElement to have an Identifier in its trivia
+Error: Debug Failure. Did not expect JsxSelfClosingElement to have an Identifier in its trivia
+    at addSyntheticNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145615:30)
+    at createChildren (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145604:9)
+    at NodeObject.getChildren (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145548:56)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114281:30)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114315:32)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114315:32)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114315:32)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114315:32)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114315:32)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114315:32)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114315:32)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114315:32)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114315:32)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114315:32)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114315:32)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114315:32)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114315:32)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114315:32)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114315:32)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114315:32)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114315:32)
+    at Object.findPrecedingToken (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114274:22)
+    at Object.getCompletionsAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117963:35)
+    at Proxy.getCompletionsAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146718:35)
+    at IOSession.Session.getCompletions (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:157642:64)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:156526:61)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158276:88
+    at IOSession.Session.executeWithRequestId (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158267:28)
+    at IOSession.Session.executeCommand (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158276:33)
+    at IOSession.Session.onMessage (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158300:35)
+    at Interface.<anonymous> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160510:27)
+    at Interface.emit (events.js:223:5)
+    at Interface._onLine (readline.js:315:10)
+    at Interface._normalWrite (readline.js:460:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:223:5)
+    at addChunk (_stream_readable.js:309:12)
+    at readableAddChunk (_stream_readable.js:290:11)
+    at Socket.Readable.push (_stream_readable.js:224:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+	at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:76778)
+	at dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:70653)
+	at dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:69512)
+	at /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:69022
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:801)
+	at g.onLengthData (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:45:60018)
+	at Socket.<anonymous> (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:45:59666)
+	at Socket.emit (events.js:223:5)
+	at addChunk (_stream_readable.js:309:12)
+	at readableAddChunk (_stream_readable.js:290:11)
+	at Socket.Readable.push (_stream_readable.js:224:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+[2021-02-02 13:17:49.834] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 378
+[2021-02-02 13:18:36.559] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2021-02-02 13:18:36.559] [exthost] [error] Error: <semantic> TypeScript Server Error (4.1.2)
+Debug Failure. Did not expect JsxSelfClosingElement to have an Identifier in its trivia
+Error: Debug Failure. Did not expect JsxSelfClosingElement to have an Identifier in its trivia
+    at addSyntheticNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145615:30)
+    at createChildren (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145604:9)
+    at NodeObject.getChildren (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145548:56)
+    at getTokenAtPositionWorker (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114211:43)
+    at Object.getTokenAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114203:16)
+    at getInfo (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:141166:28)
+    at Object.getAvailableActions (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:141140:28)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:133580:128
+    at getIterator (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:567:23)
+    at Object.flatMapIterator (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:550:27)
+    at Object.getApplicableRefactors (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:133579:36)
+    at Proxy.getApplicableRefactors (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147478:32)
+    at IOSession.Session.getApplicableRefactors (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:157926:53)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:156671:61)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158276:88
+    at IOSession.Session.executeWithRequestId (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158267:28)
+    at IOSession.Session.executeCommand (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158276:33)
+    at IOSession.Session.onMessage (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158300:35)
+    at Interface.<anonymous> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160510:27)
+    at Interface.emit (events.js:223:5)
+    at Interface._onLine (readline.js:315:10)
+    at Interface._normalWrite (readline.js:460:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:223:5)
+    at addChunk (_stream_readable.js:309:12)
+    at readableAddChunk (_stream_readable.js:290:11)
+    at Socket.Readable.push (_stream_readable.js:224:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+	at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:76778)
+	at dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:70653)
+	at dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:69512)
+	at /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:69022
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:801)
+	at g.onLengthData (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:45:60018)
+	at Socket.<anonymous> (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:45:59666)
+	at Socket.emit (events.js:223:5)
+	at addChunk (_stream_readable.js:309:12)
+	at readableAddChunk (_stream_readable.js:290:11)
+	at Socket.Readable.push (_stream_readable.js:224:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+[2021-02-02 13:32:30.662] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 377
+[2021-02-02 13:35:14.828] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 377
+[2021-02-02 13:35:19.981] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 378
+[2021-02-02 18:35:32.515] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 378
+[2021-02-02 18:36:51.400] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 377
+[2021-02-02 18:39:59.611] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 377

@@ -1,0 +1,15 @@
+[2021-02-01 17:37:32.543] [sharedprocess] [info] main {"machineId":"4c54a40d2a14e52b233a67f0cd65f754868437d634da1ae136e10a1546b66943","windowId":2}
+[2021-02-01 17:37:32.822] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/genius/Documents/project/react/genesiscinema/~/.vscode-root/User/snippets'
+[2021-02-01 17:37:42.274] [sharedprocess] [info] Installing extension: formulahendry.auto-close-tag
+[2021-02-01 17:37:42.275] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2021-02-01 17:37:48.712] [sharedprocess] [info] Downloaded extension: formulahendry.auto-close-tag undefined
+[2021-02-01 17:37:48.788] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.formulahendry.auto-close-tag-0.5.10: formulahendry.auto-close-tag
+[2021-02-01 17:37:48.788] [sharedprocess] [info] Renamed to /root/.vscode/extensions/formulahendry.auto-close-tag-0.5.10
+[2021-02-01 17:37:48.789] [sharedprocess] [info] Installation completed. formulahendry.auto-close-tag
+[2021-02-01 17:37:48.904] [sharedprocess] [info] Extensions installed successfully: formulahendry.auto-close-tag
+[2021-02-01 17:37:49.039] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme undefined
+[2021-02-01 17:37:50.390] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.pkief.material-icon-theme-4.5.0: pkief.material-icon-theme
+[2021-02-01 17:37:50.390] [sharedprocess] [info] Renamed to /root/.vscode/extensions/pkief.material-icon-theme-4.5.0
+[2021-02-01 17:37:50.392] [sharedprocess] [info] Installation completed. pkief.material-icon-theme
+[2021-02-01 17:37:50.517] [sharedprocess] [info] Extensions installed successfully: pkief.material-icon-theme
+[2021-02-01 17:38:12.597] [sharedprocess] [info] Starting to clean up unused language packs.

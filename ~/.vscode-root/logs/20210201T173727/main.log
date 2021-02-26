@@ -1,0 +1,20 @@
+[2021-02-01 17:37:28.837] [main] [info] update#setState idle
+[2021-02-01 17:37:58.840] [main] [info] update#setState checking for updates
+[2021-02-01 17:37:59.921] [main] [info] update#setState idle
+[2021-02-02 10:37:47.594] [main] [info] update#setState checking for updates
+[2021-02-02 10:37:47.615] [main] [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:105:6395)
+    at SimpleURLLoaderWrapper.emit (events.js:223:5)
+[2021-02-02 10:37:47.622] [main] [info] update#setState idle
+[2021-02-02 11:37:47.598] [main] [info] update#setState checking for updates
+[2021-02-02 11:37:48.927] [main] [info] update#setState idle
+[2021-02-02 12:37:47.698] [main] [info] update#setState checking for updates
+[2021-02-02 12:37:51.665] [main] [info] update#setState idle
+[2021-02-02 13:37:47.798] [main] [info] update#setState checking for updates
+[2021-02-02 13:37:48.725] [main] [info] update#setState idle
+[2021-02-02 15:19:06.229] [main] [info] update#setState checking for updates
+[2021-02-02 15:19:07.278] [main] [info] update#setState idle
+[2021-02-02 17:34:31.217] [main] [info] update#setState checking for updates
+[2021-02-02 17:34:32.930] [main] [info] update#setState idle
+[2021-02-02 18:34:31.538] [main] [info] update#setState checking for updates
+[2021-02-02 18:34:32.808] [main] [info] update#setState idle
